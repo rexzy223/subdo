@@ -3,9 +3,9 @@
 # ==============================
 # CONFIG CLOUDLARE
 # ==============================
-ZONE_ID="5f405908bbcf1b3b20173307ce046584"
-API_TOKEN="8_EQmOFSrPzb6wFtPFgrMTdLWDXzuuoDmUw2asJR"
-DOMAIN="rexzystr.my.id"
+ZONE_ID="3f33f6c4b5a3dd00ed16d1eb7677338e"
+API_TOKEN="le350OqR25wWm5SpSJpcTbalOaTOKJA3FcRV4ohK"
+DOMAIN="anti-ddos.me"
 # ==============================
 
 CF_API="https://api.cloudflare.com/client/v4"
